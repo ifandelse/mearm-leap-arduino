@@ -1,0 +1,17 @@
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+*npm-debug.log
+log/
+*.swp
+*.swo
+coverage/
+plato/
+.grapplehound.json
+_ReSharper*
+*.ReSharper.user
+*.ReSharper
+desktop.ini
+report/
+*config.json

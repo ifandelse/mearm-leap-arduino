@@ -1,0 +1,18 @@
+{
+  "name": "leap-robot-arm",
+  "version": "0.1.0",
+  "description": "exploratory project for using leap motion controller to operate a simple robotic arm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Cowart",
+  "license": "MIT",
+  "dependencies": {
+    "barcli": "0.0.22",
+    "johnny-five": "^0.9.24",
+    "leapjs": "^0.6.4",
+    "lodash": "^4.5.0",
+    "machina": "^1.1.2"
+  }
+}
